@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/136486/0f9a92e7baf049ada500eb672add96b0
+url: http://rpubs.com/homoud100/136486
+when: 1450826232.55373
